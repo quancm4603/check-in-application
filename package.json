@@ -2,7 +2,7 @@
   "name": "check-in-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://quancm4603.github.io/check-in-app",
+  "homepage": "https://quancm4603.github.io/check-in-application",
   "dependencies": {
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
